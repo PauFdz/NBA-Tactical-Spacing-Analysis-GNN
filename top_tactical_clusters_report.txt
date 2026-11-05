@@ -1,0 +1,37 @@
+Loading data and model...
+Extracting Latent Embeddings via GNN...
+Clustering 98679 plays into 4 tactical concepts...
+
+===========================================================================
+FULL TACTICAL SPACING CLUSTER RANKING (All 4 Clusters)
+===========================================================================
+
+TOP 3 MOST EFFECTIVE
+
+RANK #1 - Cluster 2 (6324 plays)
+➜ Setup Name: Perimeter Isolation vs Extended Perimeter Defense
+➜ Avg. Scoring Probability: 52.77%
+   • Offense Spread: 27.7 ft | Defense Spread: 24.9 ft | Iso Index: 27.9 ft
+➜ ARCHETYPE PLAY TO VISUALIZE: 'event_190010'
+
+RANK #2 - Cluster 0 (84559 plays)
+➜ Setup Name: Perimeter Isolation vs Collapsed / Paint-Packed Defense
+➜ Avg. Scoring Probability: 45.76%
+   • Offense Spread: 23.1 ft | Defense Spread: 17.0 ft | Iso Index: 22.1 ft
+➜ ARCHETYPE PLAY TO VISUALIZE: 'event_258685'
+
+RANK #3 - Cluster 1 (7779 plays)
+➜ Setup Name: Standard Motion Spacing vs Extended Perimeter Defense
+➜ Avg. Scoring Probability: 29.01%
+   • Offense Spread: 22.2 ft | Defense Spread: 24.9 ft | Iso Index: 21.0 ft
+➜ ARCHETYPE PLAY TO VISUALIZE: 'event_72597'
+
+---------------------------------------------------------------------------
+                         OTHER IDENTIFIED CLUSTERS
+---------------------------------------------------------------------------
+
+RANK #4 - Cluster 3 (17 plays)
+➜ Setup Name: Perimeter Isolation vs Extended Perimeter Defense
+➜ Avg. Scoring Probability: 0.57%
+   • Offense Spread: 27.4 ft | Defense Spread: 22.0 ft | Iso Index: 25.0 ft
+➜ ARCHETYPE PLAY TO VISUALIZE: 'event_143382'
